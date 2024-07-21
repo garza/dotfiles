@@ -6,16 +6,16 @@ format="$os $username$hostname$directory$git_branch$nodejs$python$character"
 disabled = false
 
 [os.symbols]
-Arch = "\udb82\udcc7 "
-Gentoo = "\udb82\udce8 "
+Arch = "\uf17c "
+#Gentoo = "\udb82\udce8 "
 Linux = "\ue712 "
 Macos = "\ue711 "
-OpenBSD = "\uf328 "
+#OpenBSD = "\uf328 "
 Pop = "\uf32a "
 Raspbian = "\uef5c "
 Ubuntu = "\uef72 "
-Unknown = "\uebc3 "
-Windows = "\uf17a "
+#Unknown = "\uebc3 "
+#Windows = "\uf17a "
 
 # Prompt symbols 
 [character]
