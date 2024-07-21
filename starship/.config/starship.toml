@@ -1,5 +1,21 @@
 # Use custom format:
-format=" $username$hostname$directory$git_branch$nodejs$python$character"
+format="$os $username$hostname$directory$git_branch$nodejs$python$character"
+
+# OS module
+[os]
+disabled = false
+
+[os.symbols]
+Arch = "\udb82\udcc7 "
+Gentoo = "\udb82\udce8 "
+Linux = "\ue712 "
+Macos = "\ue711 "
+OpenBSD = "\uf328 "
+Pop = "\uf32a "
+Raspbian = "\uef5c "
+Ubuntu = "\uef72 "
+Unknown = "\uebc3 "
+Windows = "\uf17a "
 
 # Prompt symbols 
 [character]
