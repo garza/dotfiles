@@ -6,7 +6,7 @@ format="$os $username$hostname$directory$git_branch$nodejs$python$character"
 disabled = false
 
 [os.symbols]
-Arch = "\uf17c "
+Arch = "\ue712 "
 #Gentoo = "\udb82\udce8 "
 Linux = "\ue712 "
 Macos = "\ue711 "
