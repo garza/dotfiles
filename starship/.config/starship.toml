@@ -1,5 +1,5 @@
 # Use custom format:
-format="$os $username$hostname$directory$git_branch$nodejs$python$character"
+format="$os$username$hostname$directory$git_branch$nodejs$python$character"
 
 # OS module
 [os]
